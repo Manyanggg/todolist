@@ -1,0 +1,59 @@
+[
+    {
+      "id": 1,
+      "task": "Call references",
+      "recruitmentCampaign": "Job:ABC123",
+      "candidate": "UX Designer",
+      "priority": "High",
+      "dueDate": "2024-03-12T13:30:00Z"
+    },
+    {
+      "id": 2,
+      "task": "Conduct police check & send emails",
+      "recruitmentCampaign": "Application:12803849",
+      "candidate": "Calliope Maddison",
+      "priority": "Medium",
+      "dueDate": "2022-12-16T16:30:00Z"
+    },
+    {
+        "id": 3,
+        "task": "Conduct police check & send emails",
+        "recruitmentCampaign": "Application:12803849",
+        "candidate": "Calliope Maddison",
+        "priority": "Low",
+        "dueDate": "2022-12-16T13:30:00Z" 
+     },
+     {
+        "id": 4,
+        "task": "Conduct police check & send emails",
+        "recruitmentCampaign": "Application:12803849",
+        "candidate": "Calliope Maddison",
+        "priority": "Low",
+        "dueDate": "2024-04-16T13:30:00Z"
+     },
+     {
+        "id": 5,
+        "task": "Conduct police check & send emails",
+        "recruitmentCampaign": "Application:12803849",
+        "candidate": "Calliope Maddison",
+        "priority": "high",
+        "dueDate": "2024-06-16T13:30:00Z"
+     },
+    {
+      "id": 6,
+      "task": "Send emails",
+      "recruitmentCampaign": "Application:12803849",
+      "candidate": "Calliope Maddison",
+      "priority": "Low",
+      "dueDate": "2024-06-16T13:30:00Z"
+   },
+   {
+      "id": 7, 
+      "task": "Conduct police check & send emails",
+      "recruitmentCampaign": "Application:12803849",
+      "candidate": "Calliope Maddison",
+      "priority": "Medium",
+      "dueDate": "2024-06-16T13:30:00Z"
+   }
+  ]
+  
