@@ -16,13 +16,14 @@ Ensure you have Node.js and npm installed on your computer. You can download the
 
    First, clone this repository to your local machine using:
 
-git clone git@github.com:Manyanggg/todolist.git
+`git clone git@github.com:Manyanggg/todolist.git`
 
 2. **Install dependencies**
 
 Navigate to the project directory and install the required dependencies:
 
 `cd <project-name>`
+<br>
 `npm install`
 
 
@@ -30,7 +31,7 @@ Navigate to the project directory and install the required dependencies:
 
 After installing the dependencies, you can start the project by running:
 
-npm start
+`npm start`
 
 This will launch the app in development mode. Open [http://localhost:3000](http://localhost:3000) to view it in your browser. The page will reload if you make edits.
 
@@ -38,7 +39,7 @@ This will launch the app in development mode. Open [http://localhost:3000](http:
 
 To stop the server, use the following keyboard shortcut in the terminal:
 
-Control + C
+`Control + C`
 
 ## Contribution
 
