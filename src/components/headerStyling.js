@@ -18,6 +18,11 @@ export const Actions = styled.div`
   display: flex;
   margin-left: 380px;
   gap: 10px;
+
+  @media (max-width: 760px) {
+    margin-left: 20px; 
+    margin-top: 10px; 
+  }
 `;
 
 export const ActionButton = styled.button`
