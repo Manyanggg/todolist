@@ -6,6 +6,11 @@ export const TodoItemContainer = styled.div`
   gap: 20px;
   align-items: center;
   padding: 15px;
+
+  @media (max-width: 768px) {
+    grid-template-columns: auto;
+    gap: 10px;
+  }
 `;
 
 export const IconContainer = styled.div`
@@ -23,7 +28,10 @@ export const TitleContainer = styled.div`
   width: 250px; 
   align-items: start; 
   text-align: left; 
-  
+
+  @media (max-width: 768px) {
+    width: 100%; 
+  }
 `;
 
 export const MainTitle = styled.h3`
@@ -31,14 +39,12 @@ export const MainTitle = styled.h3`
   color: #333;
   font-weight: bold;
   margin: 0 !important;
-
 `;
 
 export const SubTitle = styled.p`
   font-size: 12px;
   color: #8f9494;
   margin: 0 !important;
-
 `;
 
 export const Priority = styled.div`
@@ -56,7 +62,6 @@ export const Priority = styled.div`
   align-items: center;
 `;
 
-
 export const DueDate = styled.div`
   display: flex; 
   align-items: center; 
@@ -68,8 +73,14 @@ export const DueDate = styled.div`
   font-size: 14px;
   padding: 10px;
   color: #666464;
+
+  @media (max-width: 768px) {
+    width: 200px; 
+  }
 `;
 
 export const DateText = styled.span` 
   margin-left: 5px;
 `;
+
+
