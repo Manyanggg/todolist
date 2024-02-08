@@ -22,8 +22,9 @@ git clone git@github.com:Manyanggg/todolist.git
 
 Navigate to the project directory and install the required dependencies:
 
-cd todolist
-npm install
+`cd <project-name>`
+`npm install`
+
 
 ### Running the Project
 
